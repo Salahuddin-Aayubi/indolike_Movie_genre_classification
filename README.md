@@ -1,4 +1,4 @@
-# indolike_Movie_genre_classification
+# Indolike_Movie_genre_classification
 
 
 # Author: [SaqlainMushtaq](https://github.com/Salahuddin-Aayubi)
